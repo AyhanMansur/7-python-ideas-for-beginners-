@@ -1,8 +1,5 @@
 ## 💻 Project Codes
 ### 1. Calculator 🧮
-
-```python
-# calculator.py
 import sys
 
 def add(x, y):
