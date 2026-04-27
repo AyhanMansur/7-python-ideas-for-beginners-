@@ -31,4 +31,4 @@
 Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 
 ---
-@ 𝔸𝕪𝕙𝕒𝕟𝕄𝕒𝕟𝕤𝕦𝕣 2026
+@ 𝔸𝕪𝕙𝕒𝕟𝕄𝕒𝕟𝕤𝕦𝕣 𝟚𝟘𝟚𝟞
