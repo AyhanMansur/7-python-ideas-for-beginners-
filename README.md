@@ -1,6 +1,6 @@
 # 🐍 [7 ideas] - Python Project
 
-> A clean, efficient, and beginner-friendly Python project.
+> A clean, efficient, and beginner-friendly Python projects.
 
 ---
 
