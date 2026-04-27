@@ -1,8 +1,4 @@
-
----
-
 ## 💻 Project Codes
-
 ### 1. Calculator 🧮
 
 ```python
