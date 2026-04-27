@@ -1,4 +1,4 @@
-# 🐍 [Project Name] - Python Project
+# 🐍 [7 ideas] - Python Project
 
 > A clean, efficient, and beginner-friendly Python project.
 
